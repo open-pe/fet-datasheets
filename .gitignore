@@ -14,11 +14,16 @@
 
 *.convertapi.pdf
 *.convertapi_ocr.pdf
+*.convertapi_pdf.pdf
+*_rasterize.pdf
 *.ocrmypdf_nr.pdf
 *.ocrmypdf.pdf
 *.ocrmypdf_redo.pdf
 *.ocrmypdf_r400.pdf
 *.r.pdf
 *.raster_ocr.pdf
+*_decrypt.pdf
+*.decrypted.pdf
+*_ocrmypdf.pdf
 
 # ^ *.convertapi_ocr.pdf is the correct suffix
