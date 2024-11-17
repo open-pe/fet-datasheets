@@ -22,14 +22,30 @@
 *.ocrmypdf_r400.pdf
 *.ocrmypdf_r600.pdf
 
+*.r250.pdf
 *.r400.pdf
 *.r600.pdf
+*.r800.pdf
+
+*_r250.pdf
+*_r400.pdf
+*_r800.pdf
 
 *.r.pdf
 *.raster_ocr.pdf
 *_decrypt.pdf
 *.decrypted.pdf
 *_ocrmypdf.pdf
+
+*.annot.pdf
+* annot.pdf
+* crop.pdf
+
+
+
+*.pdf.txt
+
+
 
 
 # ^ *.convertapi_ocr.pdf is the correct suffix
