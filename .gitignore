@@ -22,6 +22,8 @@
 *.ocrmypdf_r400.pdf
 *.ocrmypdf_r600.pdf
 
+*.unicoded.pdf
+
 *.r250.pdf
 *.r400.pdf
 *.r600.pdf
